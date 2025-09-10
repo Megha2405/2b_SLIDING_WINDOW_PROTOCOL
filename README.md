@@ -1,5 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+megha S
+212224230157
 ## AIM
+To write a python program to perform Sliding window Protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
